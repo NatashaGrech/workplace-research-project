@@ -59,7 +59,7 @@ All code, spreadsheets, and files pertaining to The Workplace research project.
 
 ### finding-coherence.ipynb
 
-**Files In:** topic-state-65.txt, Posts_v2.csv
+**Files In:** topic-state-70.txt, Posts1.csv, Posts2.csv, Posts3.csv
 
 **Files Out:** None
 
