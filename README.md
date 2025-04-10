@@ -1,7 +1,7 @@
 # workplace-research-project
 All code pertaining to The Workplace research project.
 
-Data can be downloaded from https://data.stackexchange.com/workplace/queries.
+Data was gathered from https://workplace.stackexchange.com/ and can be downloaded at https://data.stackexchange.com/workplace/queries.
 
 ## Code Files
 
