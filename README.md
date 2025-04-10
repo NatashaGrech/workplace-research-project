@@ -1,6 +1,8 @@
 # workplace-research-project
 All code pertaining to The Workplace research project.
 
+Data can be downloaded from https://data.stackexchange.com/workplace/queries.
+
 ## Code Files
 
 ### Gender-part2.ipynb
